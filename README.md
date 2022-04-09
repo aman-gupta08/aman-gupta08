@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aman Gupta
-- 👀 I’m interested to become a Cyber Security Expert
+- 👀 I’m interested to become a Full Stack Web Developer
 - 🌱 I’m currently persuing B.Tech(CSE) at Lovely Professional University
 - 📫 How to reach me : Instagram: @g_u_p_t_a___j_i   
 
